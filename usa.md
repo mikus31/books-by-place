@@ -23,6 +23,9 @@ Please follow the following format when adding a new book:
 - [A Walk in the Woods: Rediscovering America on the Appalachian Trail](https://www.goodreads.com/book/show/9791.A_Walk_in_the_Woods) by Bill Bryson (1998)
 - The Appalachian Trail stretches from Georgia to Maine and covers some of the most breathtaking terrain in America—majestic mountains, silent forests, sparking lakes. If you’re going to take a hike, it’s probably the place to go. And Bill Bryson is surely the most entertaining guide you’ll find. He introduces us to the history and ecology of the trail and to some of the other hardy (or just foolhardy) folks he meets along the way—and a couple of bears. Already a classic, A Walk in the Woods will make you long for the great outdoors (or at least a comfortable chair to sit and read in).
 
+- [Kings of the Yukon: One Summer Paddling Across the Far North](https://www.goodreads.com/book/show/40068378-kings-of-the-yukon) by Adam Weymouth (2018)
+- One man's thrilling and transporting journey by canoe across Alaska in search of the king salmon.
+
 ## Municipal
 
 - Book Title by Author (Year)
