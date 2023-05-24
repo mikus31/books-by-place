@@ -4,7 +4,7 @@ A curated list of great books to read, organized by geographical locations.
 
 ## Introduction
 
-This repository collects great books to read from around the world, organized by their respective locations. This could be the country where the book is set, the city where the author is from, etc. The goal is to explore world literature and gain different perspectives.
+This repository collects great books to read from around the world, organized by their respective locations. This could be the country, region, state, or city where the book is set. The goal is to explore world literature and gain different perspectives.
 
 ## How to Contribute
 
