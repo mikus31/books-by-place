@@ -22,6 +22,7 @@ Please follow the following format when adding a new book:
 
 ## List of Locations
 
+- [Costa Rica](costa-rica.md)
 - [Finland](finland.md)
 - [Sweden](sweden.md)
 - [United States of America](usa.md)
