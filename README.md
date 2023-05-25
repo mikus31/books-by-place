@@ -24,6 +24,7 @@ Please follow the following format when adding a new book:
 
 - [Costa Rica](costa-rica.md)
 - [Finland](finland.md)
+- [Ireland](ireland.md)
 - [Sweden](sweden.md)
 - [United States of America](usa.md)
 - ...
