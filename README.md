@@ -22,7 +22,7 @@ Please follow the following format when adding a new book:
 
 ## List of Locations
 
-- [CONTINENTAL](continental.md)
+- [WORLDWIDE](worldwide.md)
 - [Australia](australia.md)
 - [Costa Rica](costa-rica.md)
 - [Finland](finland.md)
