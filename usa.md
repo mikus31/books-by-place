@@ -9,11 +9,11 @@ Please follow the following format when adding a new book:
 
 ## National
 
-- [That Wild Country: An Epic Journey through the Past, Present, and Future of America's Public Lands](https://www.goodreads.com/book/show/53043941-that-wild-country) by Mark Kenyon (2019)  
-   - From prominent outdoorsman and nature writer Mark Kenyon comes an engrossing reflection on the past and future battles over our most revered landscapes—America’s public lands.
-
 - [Founding Gardeners: The Revolutionary Generation, Nature, and the Shaping of the American Nation](https://www.goodreads.com/book/show/8770487-founding-gardeners) by Andrea Wulf (2011)  
-   - A groundbreaking look at the Founding Fathers and their obsession with gardening, agriculture, and botany by the author of *Magnificent Rebels* and New York Times bestseller *The Invention of Nature*. 
+   - A groundbreaking look at the Founding Fathers and their obsession with gardening, agriculture, and botany by the author of *Magnificent Rebels* and New York Times bestseller *The Invention of Nature*.
+
+- [That Wild Country: An Epic Journey through the Past, Present, and Future of America's Public Lands](https://www.goodreads.com/book/show/53043941-that-wild-country) by Mark Kenyon (2019)  
+   - From prominent outdoorsman and nature writer Mark Kenyon comes an engrossing reflection on the past and future battles over our most revered landscapes—America’s public lands. 
 
 ## Regional
 
