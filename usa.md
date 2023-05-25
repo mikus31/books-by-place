@@ -28,7 +28,10 @@ Please follow the following format when adding a new book:
 
 ## Municipal
 
-- Book Title by Author (Year)  
-   - Brief description or reason for recommendation.
+- [1 Dead in Attic: Post-Katrina Stories](https://www.goodreads.com/book/show/147318.1_Dead_in_Attic) by Chris Rose (2005)  
+   - *1 Dead in Attic* is a collection of stories by Times-Picayune columnist Chris Rose, recounting the first four harrowing months of life in New Orleans after Katrina. It is a roller coaster ride of observations, commentary, emotions, tragedy and even humor - in a way that only Rose could find in a devastated wasteland.
+   
+- [An Unnatural Metropolis: Wresting New Orleans from Nature](https://www.goodreads.com/book/show/75246.An_Unnatural_Metropolis) by Craig E. Colten (2004)  
+   - How New Orleans came to be, taking shape between the mutual and often contradictory forces of nature and urban development, is the subject of An Unnatural Metropolis. Craig E. Colten traces engineered modifications to New Orleans's natural environment from 1800 to 2000 and demonstrates that, though all cities must contend with their physical settings, New Orleans may be the city most dependent on human-induced transformations of its precarious site.
 
 ...
