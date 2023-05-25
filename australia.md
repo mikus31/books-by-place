@@ -10,7 +10,7 @@ Please follow the following format when adding a new book:
 ## National
 
 - [In a Sunburned Country](https://www.goodreads.com/book/show/24.In_a_Sunburned_Country) by Bill Bryson (2000)  
-   - Bill Bryson journeyed to Australia and promptly fell in love with the country. And who can blame him? The people are cheerful, extroverted, quick-witted and unfailingly obliging: their cities are safe and clean and nearly always built on water; the food is excellent; the beer is cold and the sun nearly always shines.
+   - *In a Sunburned Country* is a delightful travelogue by Bill Bryson, chronicling his adventures and humorous observations during his journey through Australia. With his signature wit and curiosity, Bryson takes readers on a captivating exploration of the diverse landscapes, unique wildlife, and quirky culture of the "sunburned country," offering an entertaining and informative perspective on Australia.
 
 ## Regional
 

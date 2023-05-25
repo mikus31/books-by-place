@@ -10,7 +10,7 @@ Please follow the following format when adding a new book:
 ## National
 
 - [The Adventurer's Son](https://www.goodreads.com/book/show/46041442-the-adventurer-s-son) by Roman Dial (2020)    
-   - A harrowing story of drama, adventure, and a father’s love for his son, set in the most beautiful and dangerous reaches of the planet, *The Adventurer’s Son* is a mystery, the memoir of a father and his son, and an unforgettable story of love and profound loss.
+   - *The Adventurer's Son* is a gripping memoir by Roman Dial, recounting his relentless search for his missing son, Cody Dial, who disappeared in the Costa Rican rainforest. Dial's haunting and emotional narrative delves into the complexities of parental love, adventure, and loss, offering a profound exploration of the depths of human resilience and the enduring bond between a father and a son.
 
 ## Regional
 
