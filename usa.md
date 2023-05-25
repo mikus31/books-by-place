@@ -9,7 +9,7 @@ Please follow the following format when adding a new book:
 
 ## National
 
-- [That Wild Country: An Epic Journey through the Past, Present, and Future of America's Public Lands](https://www.goodreads.com/book/show/53043941-that-wild-country) by Mark Kenyon (2019)
+- [That Wild Country: An Epic Journey through the Past, Present, and Future of America's Public Lands](https://www.goodreads.com/book/show/53043941-that-wild-country) by Mark Kenyon (2019)  
    
    From prominent outdoorsman and nature writer Mark Kenyon comes an engrossing reflection on the past and future battles over our most revered landscapes—America’s public lands.
 
