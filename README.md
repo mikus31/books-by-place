@@ -24,6 +24,7 @@ Please follow the following format when adding a new book:
 
 - [WORLDWIDE](worldwide.md)
 - [Australia](australia.md)
+- [Bolivia](bolivia.md)
 - [Costa Rica](costa-rica.md)
 - [Finland](finland.md)
 - [Ireland](ireland.md)
