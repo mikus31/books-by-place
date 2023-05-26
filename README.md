@@ -2,6 +2,8 @@
 
 A curated list of great books to read, organized by geographical locations.
 
+Read more about the project at [The Pin Drop](https://michaelmcneil.substack.com/p/01b1b401-1034-4f85-a979-724d77070f48). Created by Michael McNeil, 2023.
+
 ## Introduction
 
 This repository collects great books to read from around the world, organized by their respective locations. This could be the country, region, state, or city where the book is set. The goal is to explore world literature and gain different perspectives.
