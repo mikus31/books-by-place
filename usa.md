@@ -29,6 +29,9 @@ Please follow the following format when adding a new book:
     
 - [Feral: Losing Myself and Finding My Way in America’s National Parks](https://www.goodreads.com/book/show/71689595-feral) by Emily Pennington (2023)  
     - *Feral: Losing Myself and Finding My Way in America’s National Parks* by Emily Pennington is a captivating memoir that chronicles the author's personal journey of self-discovery and transformation through her experiences in America's national parks. Pennington's narrative explores her connection with nature, the challenges she faces, and the lessons she learns while immersing herself in the untamed wilderness. The book offers a compelling exploration of the healing power of nature and the transformative potential of outdoor adventures.
+    
+- [This Contested Land: The Storied Past and Uncertain Future of America’s National Monuments](https://www.goodreads.com/book/show/59491428-this-contested-land) by McKenzie Long (2022)  
+    - One woman’s enlightening trek through the natural histories, cultural stories, and present perils of thirteen national monuments, from Maine to Hawaii.
 
 ## Regional
 
