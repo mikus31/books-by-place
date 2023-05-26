@@ -29,6 +29,7 @@ Please follow the following format when adding a new book:
 - [Finland](finland.md)
 - [Ireland](ireland.md)
 - [Kenya](kenya.md)
+- [South Africa](south-africa.md)
 - [Sweden](sweden.md)
 - [United States of America](usa.md)
 - ...
