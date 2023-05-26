@@ -23,6 +23,12 @@ Please follow the following format when adding a new book:
 
 - [That Wild Country: An Epic Journey through the Past, Present, and Future of America's Public Lands](https://www.goodreads.com/book/show/53043941-that-wild-country) by Mark Kenyon (2019)  
    - *That Wild Country: An Epic Journey through the Past, Present, and Future of America's Public Lands* is an immersive exploration by Mark Kenyon, delving into the rich history, current challenges, and potential future of America's public lands. Through captivating storytelling, Kenyon highlights the significance of these landscapes, the debates surrounding their preservation, and the crucial role they play in our collective heritage.
+   
+- [American Ramble: A Walk of Memory and Renewal](https://www.goodreads.com/book/show/60012523-american-ramble) by Neil King Jr. (2023)  
+    - *American Ramble: A Walk of Memory and Renewal* by Neil King Jr. is a reflective travel memoir that follows the author's transformative journey across America. Through his observations, encounters, and reflections, King explores themes of self-discovery, personal growth, and the meaning of the American landscape. The book offers a unique perspective on the diverse landscapes, cultures, and people that make up the United States.
+    
+- [Feral: Losing Myself and Finding My Way in America’s National Parks](https://www.goodreads.com/book/show/71689595-feral) by Emily Pennington (2023)  
+    - *Feral: Losing Myself and Finding My Way in America’s National Parks* by Emily Pennington is a captivating memoir that chronicles the author's personal journey of self-discovery and transformation through her experiences in America's national parks. Pennington's narrative explores her connection with nature, the challenges she faces, and the lessons she learns while immersing herself in the untamed wilderness. The book offers a compelling exploration of the healing power of nature and the transformative potential of outdoor adventures.
 
 ## Regional
 
@@ -46,6 +52,15 @@ Please follow the following format when adding a new book:
    
 - [Braving It: A Father, a Daughter, and an Unforgettable Journey into the Alaskan Wild](https://www.goodreads.com/book/show/26109024-braving-it) by James Campbell (2016)  
    - *Braving It: A Father, a Daughter, and an Unforgettable Journey into the Alaskan Wild* is an inspiring memoir by James Campbell, chronicling his adventures in the Alaskan wilderness with his daughter. Through their remarkable journey, the book captures the challenges, triumphs, and profound connections forged in the face of untamed nature, highlighting the transformative power of the wilderness and the bond between a father and daughter.
+   
+- [Winter: Notes from Montana](https://www.goodreads.com/book/show/14225.Winter) by Rick Bass (1991)  
+    - *Winter: Notes from Montana* is a contemplative collection of essays by Rick Bass, capturing the beauty and harshness of the winter season in Montana. With lyrical prose and keen observations, Bass explores the interplay between nature and humanity, reflecting on the solitude, wildlife, landscapes, and the profound impact of winter on the human spirit, offering a glimpse into the rhythms and intricacies of life in this rugged wilderness.
+    
+- [Freckled: A Memoir of Growing Up Wild in Hawaii](https://www.goodreads.com/book/show/42360548-freckled) by T.W. Neal, Toby Neal (2018)  
+    - *Freckled: A Memoir of Growing Up Wild in Hawaii* is a heartfelt memoir by T.W. Neal, recounting her experiences of growing up in the beautiful and vibrant landscapes of Hawaii. Through her engaging storytelling, Neal shares her adventures, encounters with nature, and reflections on her unique upbringing, offering readers an intimate glimpse into the cultural richness and natural wonders of Hawaii, as seen through the eyes of a young girl finding her place in the world.
+    
+- [Hawaii](https://www.goodreads.com/book/show/12658.Hawaii) by James A. Michener (1959)  
+    - *Hawaii* by James Michener is a sweeping historical novel that spans generations, exploring the rich tapestry of Hawaii's history, culture, and people. Michener weaves together the stories of various characters, from the Polynesian voyagers to the missionaries and plantation workers, creating an epic narrative that delves into the complex dynamics of the islands and the forces that have shaped their identity over centuries. It is a captivating literary journey through the enchanting landscapes and captivating history of Hawaii.
 
 ## Municipal
 

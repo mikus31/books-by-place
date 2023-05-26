@@ -9,8 +9,14 @@ Please follow the following format when adding a new book:
 
 ## Worldwide
 
-- Book Title by Author (Year)  
-   - Brief description or reason for recommendation.
+- [White Sands: Experiences from the Outside World](https://www.goodreads.com/book/show/26014867-white-sands) by Geoff Dyer (2016)  
+    - *White Sands: Experiences from the Outside World* is a captivating collection of essays by Geoff Dyer, where he explores various destinations around the world, ranging from the Utah desert to the Forbidden City in Beijing. With his unique blend of humor, insight, and curiosity, Dyer takes readers on a thought-provoking journey, reflecting on landscapes, history, art, and the human experience, ultimately offering a captivating exploration of the outside world and our place in it.
+
+- [Two Years Before the Mast: A Sailor's Life at Sea](https://www.goodreads.com/book/show/335397.Two_Years_Before_the_Mast) by Richard Henry Dana Jr. (1840)  
+   - *Two Years Before the Mast: A Sailor's Life at Sea* is a classic memoir by Richard Henry Dana Jr., detailing his experiences as a common sailor aboard a merchant ship in the early 19th century. Through vivid descriptions and firsthand accounts, Dana provides a compelling insight into the arduous life at sea, the challenges faced by sailors, and the maritime world of that era, offering readers a captivating glimpse into the nautical adventures of the time.
+   
+- [The Wager: A Tale of Shipwreck, Mutiny and Murder](https://www.goodreads.com/book/show/61714633-the-wager) by David Grann (2023)  
+    - *The Wager: A Tale of Shipwreck, Mutiny and Murder* is a gripping historical account by John and William Stephens, chronicling the ill-fated voyage of the HMS Wager in the 18th century. The book vividly depicts the shipwreck, subsequent mutiny, and the harrowing struggles faced by the survivors as they fought for survival against treacherous conditions, internal conflicts, and the relentless pursuit of hostile natives. It is a riveting tale of resilience, desperation, and the dark side of human nature in extreme circumstances.
 
 ## Multi-Continent
 
@@ -21,5 +27,8 @@ Please follow the following format when adding a new book:
 
 - [The White Darkness](https://www.goodreads.com/book/show/39723730-the-white-darkness) by David Grann (2018)  
    - *The White Darkness* is a captivating non-fiction book by David Grann, which chronicles the incredible true story of Henry Worsley, a modern-day explorer and his obsession with the Antarctic. The book delves into Worsley's gripping journey, his connection to the legendary explorer Ernest Shackleton, and the relentless pursuit of his own Antarctic goals, ultimately exploring themes of adventure, resilience, and the triumph of the human spirit.
+   
+- [Forest Walking: Discovering the Trees and Woodlands of North America](https://www.goodreads.com/book/show/59593246-forest-walking) by Peter Wohlleben, Jane Billinghurst (2022)  
+    - *Forest Walking: Discovering the Trees and Woodlands of North America* by Peter Wohlleben and Jane Billinghurst is a captivating guidebook that takes readers on a journey through the diverse forests of North America. The book offers insights into the fascinating world of trees, wildlife, and ecosystems, providing a deeper understanding and appreciation for the natural wonders of North American forests.
 
 ...
