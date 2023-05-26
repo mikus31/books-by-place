@@ -2,7 +2,7 @@
 
 A curated list of great books to read, organized by geographical locations.
 
-Read more about the project at [The Pin Drop](https://michaelmcneil.substack.com/p/01b1b401-1034-4f85-a979-724d77070f48). Created by Michael McNeil, 2023.
+Read more about the project at [The Pin Drop](https://michaelmcneil.substack.com/p/01b1b401-1034-4f85-a979-724d77070f48). Created by [Michael McNeil](https://rmichaelmcneil.com/), 2023.
 
 ## Introduction
 
