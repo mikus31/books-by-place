@@ -32,6 +32,9 @@ Please follow the following format when adding a new book:
     
 - [This Contested Land: The Storied Past and Uncertain Future of America’s National Monuments](https://www.goodreads.com/book/show/59491428-this-contested-land) by McKenzie Long (2022)  
     - One woman’s enlightening trek through the natural histories, cultural stories, and present perils of thirteen national monuments, from Maine to Hawaii.
+    
+- [A Sand County Almanac and Sketches Here and There](https://www.goodreads.com/book/show/210404.A_Sand_County_Almanac_and_Sketches_Here_and_There) by Aldo Leopold (1949)  
+    - _A Sand County Almanac and Sketches Here and There_ by Aldo Leopold is a timeless and insightful reflection on the natural world and humanity's place within it, weaving together field observations, ecological wisdom, and a call for conservation ethics that remain influential even decades after its publication.
 
 ## Regional
 
@@ -64,6 +67,15 @@ Please follow the following format when adding a new book:
     
 - [Hawaii](https://www.goodreads.com/book/show/12658.Hawaii) by James A. Michener (1959)  
     - *Hawaii* by James Michener is a sweeping historical novel that spans generations, exploring the rich tapestry of Hawaii's history, culture, and people. Michener weaves together the stories of various characters, from the Polynesian voyagers to the missionaries and plantation workers, creating an epic narrative that delves into the complex dynamics of the islands and the forces that have shaped their identity over centuries. It is a captivating literary journey through the enchanting landscapes and captivating history of Hawaii.
+    
+- [The New New Thing: A Silicon Valley Story](https://www.goodreads.com/book/show/17986421-the-new-new-thing) by Michael Lewis (1999)  
+    - _The New New Thing: A Silicon Valley Story_ by Michael Lewis is a dynamic narrative that delves into the heart of Silicon Valley during the tech boom, encapsulating its innovative spirit, unpredictability, and the audacious characters driving its relentless pursuit of the 'next big thing'.
+    
+- [South to America: A Journey Below the Mason Dixon to Understand the Soul of a Nation](https://www.goodreads.com/book/show/55276620-south-to-america) by Imani Perry (2022)  
+    - An essential, surprising journey through the history, rituals, and landscapes of the American South—and a revelatory argument for why you must understand the South in order to understand America.
+    
+- [The Pacific Crest Trail: A Visual Compendium](https://www.goodreads.com/book/show/54809951-the-pacific-crest-trail) by Joshua M Powell (2021)  
+    - _The Pacific Crest Trail: A Visual Compendium_ is a stunning visual journey along the Pacific Crest Trail, highlighting the breathtaking landscapes, diverse ecosystems, and remarkable encounters that have captivated hikers along this iconic pathway stretching from Mexico to Canada.
 
 ## Municipal
 
