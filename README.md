@@ -30,6 +30,7 @@ Please follow the following format when adding a new book:
 - [Costa Rica](costa-rica.md)
 - [Finland](finland.md)
 - [Ireland](ireland.md)
+- [Italy](italy.md)
 - [Kenya](kenya.md)
 - [Mexico](mexico.md)
 - [South Africa](south-africa.md)
