@@ -35,6 +35,12 @@ Please follow the following format when adding a new book:
     
 - [A Sand County Almanac and Sketches Here and There](https://www.goodreads.com/book/show/210404.A_Sand_County_Almanac_and_Sketches_Here_and_There) by Aldo Leopold (1949)  
     - _A Sand County Almanac and Sketches Here and There_ by Aldo Leopold is a timeless and insightful reflection on the natural world and humanity's place within it, weaving together field observations, ecological wisdom, and a call for conservation ethics that remain influential even decades after its publication.
+    
+- [The Cruise of the Rolling Junk](https://www.goodreads.com/book/show/13198856-the-cruise-of-the-rolling-junk) by F. Scott Fitzgerald (1924)  
+    - *The Cruise of the Rolling Junk* is a humorous and adventurous memoir by F. Scott Fitzgerald, chronicling his experiences traveling across America with his wife, Zelda, in a dilapidated automobile. Fitzgerald's witty observations and misadventures along the way provide a lighthearted and entertaining glimpse into their unconventional journey, capturing the spirit of adventure and the freedom of the open road.
+    
+- [By Motor to the Golden Gate](https://www.goodreads.com/book/show/240040.By_Motor_to_the_Golden_Gate) by Emily Post (1916)  
+    - *By Motor to the Golden Gate* is a captivating travelogue by Emily Post, recounting her adventurous journey from New York to California in the early 20th century. Post's vivid descriptions, engaging anecdotes, and keen observations provide readers with a delightful and insightful account of the landscapes, people, and cultures she encounters along the way. The book offers a fascinating glimpse into the spirit of exploration and the allure of cross-country travel during a transformative era in America.
 
 ## Regional
 
